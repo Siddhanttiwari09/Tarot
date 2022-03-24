@@ -649,7 +649,6 @@ footer span a:hover{
 }
 
 
-/* responsive media query start */
 @media (max-width: 1700px)
 {
   .about .about-content .left img{
@@ -1014,5 +1013,4 @@ footer span a:hover{
     Line-height: 1em;
    }
 }
-
 
